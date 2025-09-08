@@ -1,2 +1,13 @@
 # Deep-Learning-Classification-Model-Neural-Networks
-A deep learning classification pipeline built in Python using TensorFlow/Keras. Includes data preprocessing, neural network design, training, evaluation, and performance visualization for accurate multi-class classification.
+## 📌 Project Overview
+This project demonstrates a complete **deep learning workflow** for classification tasks using **TensorFlow/Keras**.  
+It covers data preprocessing, building and training neural networks, evaluating accuracy and loss, and visualizing performance.  
+The project show how the baseline model and optimized model works on Insurance data.
+---
+## 🔑 Features
+- Data loading and preprocessing
+- Neural network design with TensorFlow/Keras
+- Model training and validation
+- Performance evaluation (accuracy, loss, confusion matrix, etc.)
+- Visualization of training history
+
