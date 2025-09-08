@@ -2,7 +2,7 @@
 ## 📌 Project Overview
 This project demonstrates a complete **deep learning workflow** for classification tasks using **TensorFlow/Keras**.  
 It covers data preprocessing, building and training neural networks, evaluating accuracy and loss, and visualizing performance.  
-The project show how the baseline model and optimized model works on Insurance data.
+The project show how the baseline model and optimized model works on mobile price prediction.
 ---
 ## 🔑 Features
 - Data loading and preprocessing
